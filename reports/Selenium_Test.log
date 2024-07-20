@@ -1,0 +1,14 @@
+2024-07-20 16:24:27,303 - Selenium POM tests - INFO - Starting the tests
+2024-07-20 16:24:32,500 - Selenium POM tests - INFO - checking logging info for username=standard_user and password=secret_sauce
+2024-07-20 16:24:36,170 - Selenium POM tests - INFO - checking logging info for username=visual_user and password=secret_sauce
+2024-07-20 16:24:39,069 - Selenium POM tests - INFO - checking logging info for username=standard_user and password=secret
+2024-07-20 16:24:42,151 - Selenium POM tests - INFO - checking logging info for username=user_dummy and password=secret_sauce
+2024-07-20 16:24:45,534 - Selenium POM tests - INFO - Adding Backpack to the cart
+2024-07-20 16:24:45,693 - Selenium POM tests - INFO - Adding Shirt to the cart
+2024-07-20 16:24:45,789 - Selenium POM tests - INFO - Adding Light to the cart
+2024-07-20 16:24:45,907 - Selenium POM tests - INFO - Adding Jacket to the cart
+2024-07-20 16:24:45,982 - Selenium POM tests - INFO - Click on cart icon
+2024-07-20 16:24:46,078 - Selenium POM tests - INFO - Checkout
+2024-07-20 16:24:51,045 - Selenium POM tests - INFO - Click on continue button
+2024-07-20 16:24:53,236 - Selenium POM tests - INFO - Finish Shopping
+2024-07-20 16:24:57,592 - Selenium POM tests - INFO - End of tests

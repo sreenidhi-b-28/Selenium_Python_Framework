@@ -29,6 +29,6 @@ pip install -r requirements.txt
 Move to the tests folder and execute the below command,
 
 ```bash
-pytest -rA --tb=no reports='../reports/report.html'
+pytest -rA --tb=no --html='../reports/report.html'
 ```
 The above command will generate an HTML named `report.html` under reports folder that can be analyzed for detailed test case results.
